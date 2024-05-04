@@ -13,5 +13,5 @@ print(user.items())
 user['sex']='Female'
 print(user.copy())
 user.update({'sex':'female'})
-print(user)
+
 
